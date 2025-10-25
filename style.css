@@ -11,6 +11,7 @@
 html, body {
   width: 100vw;
   height: 500vh;
+  background-color: #FFE58A;
 }
 
 canvas {
@@ -133,3 +134,4 @@ section {
 .lenis.lenis-smooth iframe {
   pointer-events: none;
 }
+
